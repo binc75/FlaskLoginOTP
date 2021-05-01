@@ -1,0 +1,15 @@
+{
+    "nbianchi": {
+        "password": "abc123",
+        "email": "bianchi.nicola@email.com",
+        "otp": true,
+        "otp_code": "XXXXXXXXYYYYYYYY"
+    },
+
+    "guest": {
+        "password": "abc123",
+        "email": "guest@example.com",
+        "otp": true,
+        "otp_code": "flsdjknfsiohioknqwerfoifiovnm343"
+    }
+}
