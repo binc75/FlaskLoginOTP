@@ -12,6 +12,7 @@ pip install -U pip
 pip install -r requirements.txt --no-cache
 ./app.py
 ```
-http://127.0.0.1:5000
+Go to:  http://127.0.0.1:5000  
+Login and scan the QR code with your Google Authenticator or Authy app...
 
-**refresh the page to see the new OTP**
+**...refresh the page to see the new OTP**
